@@ -27,6 +27,7 @@ body {
     border-radius: 5px;
     padding: 5px;
     font-size: 1.2rem;
+    min-width: 50%;
 }
 #add-task-button {
     padding: 0px 10px;
